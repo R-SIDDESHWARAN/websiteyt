@@ -1,0 +1,236 @@
+#navigation{
+    border: 1px solid black;
+    height: 50px;
+    display: flex;
+    background-color:#252529;
+
+}
+.nav-content{
+    /* border: 1px solid black; */
+    width: 110px;
+    text-decoration: none;
+   line-height: 50px;
+   /* background-color:#252529; */
+   color: white;
+   
+    
+}
+#image1{
+    height: 100vh;
+    background-image:url("https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+#header{
+    align-content: center;    
+}
+
+h1{
+    margin: 92px;
+}
+.para1{
+  
+    padding-left: 110px;
+    padding-right: 100px;
+    line-height: 35px;
+}
+#music{
+    border: 1px solid black;
+    height: 180vh;
+    background-color: #252529;
+    
+    
+}
+#para2{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 40px;
+}
+/* #icon{
+    font-size: 40px;
+} */
+#para3{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 35px;
+    
+}
+#para4{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    padding: 78px;
+    margin-left: 40px;
+    margin-right: 40px;
+    line-height: 35px;
+    margin-top: -60px;
+    /* display: block; */
+}
+#but{
+    /* border: 1px solid black; */
+     text-align: center; 
+    background-color:#ac0414;
+    color: white;
+    /* margin: 16px; */
+    margin-left: 650px;
+    padding: 20px;
+    padding-top: 20px;
+    font-size: medium;
+    margin-top: -70px;
+    /* line-height: -90px; */
+
+}
+#para5{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-size: large;
+}
+#image2{
+  
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+#maindiv1{
+    height: 300vh;
+}
+#para6{
+    text-align: center;
+    font-size:xx-large;
+    margin-top: 60px;
+    
+}
+#para7{
+    text-align: center;
+    margin-top: 40px;
+    font-size:23px;
+    padding-left: 140px;
+    padding-right: 150px;
+    word-spacing: 5px;
+    font-family: 'PT Sans'sans-serif;
+    height: 20vh;
+    line-height: 30px;
+}
+#but1{
+    /* text-align: center; */
+    margin-left: 710px;
+    height: 60px;
+    width: 110px;
+    background-color: #103063;
+    color: white;
+    /* text-transform: capitalize; */
+    font-size: medium;
+    margin-bottom: 10px;
+ 
+}
+#image3{
+    margin-left: 190px;
+    height: 890px;
+    margin-bottom: 30px;
+}
+#image4{
+    margin-top: 20px;
+    height: 600px;
+}
+#para8{
+   text-align: center;
+   margin-top: -350px;
+   color: white;
+   font-size: xx-large;
+}
+#para9{
+    color: white;
+    margin-left: 200px;
+    margin-right: 130px;
+    line-height: 30px;
+    font-size:larger;
+    word-spacing: 5px;
+}
+#giftcard{
+    height: 10vh;
+}
+
+#image5{
+    height: 300px;
+    margin-top: -650px;
+    margin-left: 150px;
+
+}
+#right-cont{
+    border: 1px solid white;
+    text-align: left;
+    margin-left: 690px;
+    width: 500px;
+    margin-top: -330px;
+    margin-bottom: -500px;
+}
+#para10{
+    text-align: left;
+    font-size: x-large;
+  
+    margin-left: -5px;
+}
+#para11{
+    font-size: large;
+    word-spacing: 3px;
+    line-height: 1.5;
+    
+}
+#list{
+    border: 1px solid black;
+    background-color: #252529;
+    height: 45vh;
+    margin-bottom: 200px;
+}
+#list1{
+    color: white;
+    height: 250px;
+    width: 200px;
+    margin-left: 240px;
+    margin-top: 80px;
+    line-height: 15px;
+}
+
+
+#list2{
+    color: white;
+    margin-left: 500px;
+    margin-top: -265px;
+    line-height: 15px;
+}
+#list3{
+    color: white;
+    margin-left:780px;
+    margin-top: -218px;
+    line-height: 15px;
+}
+#list4{
+    color: white;
+    margin-left: 1080px;
+    margin-top: -220px;
+    line-height: 15px;
+    margin-bottom: 30px;
+}
+footer{
+    border: 1px solid #333333;
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    margin-top: -200px;
+    font-size: large;
+
+}
